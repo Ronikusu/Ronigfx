@@ -1,5 +1,4 @@
-# RoniRBX
+# RoniRBX (WIP GFX site)
 
-# work in progress
-
-will be a GFX website in a future deploy.
+# NOTES
+ - website redirects you to a google site for now while the site is being worked on.
